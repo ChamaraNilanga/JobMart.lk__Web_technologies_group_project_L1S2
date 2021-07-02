@@ -13,7 +13,8 @@ Individual users have two options to search for a job even without sign up such 
 We created a demo video to show how it works with our local database. 
 [click here to refer the video](https://dms.uom.lk/s/XxsXRktysKHQZaZ)
 
-Finaly we want to say, there are lot of bugs and inefficiencies to fix. we are looking to work with the project further to pullup it to the real world commercial level.  
+Finaly we want to say, the project is in the very basic level and there are lot of bugs and inefficiencies to fix. 
+we are looking to work with the project further to pullup it to the real world commercial level.  
 
 Thank you!
 
